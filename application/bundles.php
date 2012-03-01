@@ -33,4 +33,8 @@
 |
 */
 
-return array();
+return array(
+	'admin' => array(
+		'handles' => 'admin'
+	)
+);
