@@ -1,0 +1,360 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "bundles/admin/views/login.php",
+			"settings":
+			{
+				"buffer_size": 427,
+				"line_ending": "Windows",
+				"name": "<h1>Admin Login</h1>"
+			}
+		},
+		{
+			"file": "bundles/admin/routes.php",
+			"settings":
+			{
+				"buffer_size": 318,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/H/Portable/Sublime Text 2 Build 2181/Data/Packages/Default/Preferences.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 12108,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/start.php",
+			"settings":
+			{
+				"buffer_size": 1385,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/config/session.php",
+			"settings":
+			{
+				"buffer_size": 3271,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "laravel/routing/controller.php",
+			"settings":
+			{
+				"buffer_size": 8896,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/H/Portable/Sublime Text 2 Build 2181/Data/Packages/Default/Default (Windows).sublime-keymap",
+		"/H/Portable/Sublime Text 2 Build 2181/Data/Packages/User/Distraction Free.sublime-settings",
+		"/H/Portable/Sublime Text 2 Build 2181/Data/Packages/User/Preferences.sublime-settings",
+		"/H/Portable/git/home/jason/blog/laravel/routing/filter.php",
+		"/H/Portable/git/home/jason/blog/application/routes.php",
+		"/H/Portable/git/home/jason/blog/application/migrations/2012_03_02_012426_create_session_table.php",
+		"/H/Portable/git/home/jason/blog/application/migrations/2012_03_02_012057_create_session_table.php",
+		"/H/Portable/git/home/jason/blog/application/config/application.php",
+		"/H/Portable/git/home/jason/blog/application/views/layouts/default.php",
+		"/H/Portable/git/home/jason/blog/application/views/home/index.php",
+		"/H/Portable/git/home/jason/blog/paths.php",
+		"/H/Portable/git/home/jason/blog/artisan",
+		"/H/Portable/Sublime Text 2 Build 2181/Data/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"refresh"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "bundles/admin/views/login.php",
+					"settings":
+					{
+						"buffer_size": 427,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								427,
+								427
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<h1>Admin Login</h1>",
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "bundles/admin/routes.php",
+					"settings":
+					{
+						"buffer_size": 318,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								183,
+								183
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/H/Portable/Sublime Text 2 Build 2181/Data/Packages/Default/Preferences.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 12108,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4522,
+								4522
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1498.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "application/start.php",
+					"settings":
+					{
+						"buffer_size": 1385,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1343,
+								1343
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "application/config/session.php",
+					"settings":
+					{
+						"buffer_size": 3271,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								556,
+								560
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "laravel/routing/controller.php",
+					"settings":
+					{
+						"buffer_size": 8896,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7191,
+								7191
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3455.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 293.0,
+	"status_bar_visible": true
+}
